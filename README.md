@@ -13,7 +13,7 @@ $ grep 検索正規表現 ファイル名
 リダイレクト(>)で標準出力をファイルに出力し、'>>'で追記。
 
 # ショットガン解析
-(https://www.nature.com/articles/s41467-020-15457-9)から統合失調症患者の糞便サンプルについて、メタゲノムショットガンシーケンスを行って得られたデータを１例解析した。
+[Metagenome-wide association of gut microbiome features for schizophrenia](https://www.nature.com/articles/s41467-020-15457-9)から統合失調症患者の糞便サンプルについて、メタゲノムショットガンシーケンスを行って得られたデータを１例解析した。
 
 fastpを使い、5'と3'のクオリティの低い領域のトリミングと、残存したアダプターのトリミングをする。その際に詳細に書かれたレポートが出力される。
 ![report_image](https://github.com/yuto1352/hiroshima2022/blob/images/report.png)
