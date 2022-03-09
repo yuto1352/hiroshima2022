@@ -11,4 +11,4 @@ $ grep 検索正規表現 ファイル名
 パイプ(|)で処理を繋いぐ
 リダイレクト(>)で標準出力をファイルに出力し、'>>'で追記。
 
-![sendsketch_image](https://github.com/yuto1352/hiroshima2022/"Screenshot 2022-03-09 13.45.47.png")
+![sendsketch_image](https://github.com/yuto1352/hiroshima2022/Screenshot 2022-03-09 13.45.47.png)
